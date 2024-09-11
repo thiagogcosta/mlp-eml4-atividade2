@@ -4,25 +4,25 @@ Este repositório possui o intuito de conter os códigos da atividade 2 do compo
 
 Desse modo, a seguir é possível observar alguas referências utilizadas para a execução desta atividade:
 
-Tutorial de como utilizar o Jupyter Lab com Spark:
-- https://github.com/whole-tale/all-spark-notebook
-- https://github.com/jupyter/docker-stacks
+- Tutorial de como utilizar o Jupyter Lab com Spark:
+    - https://github.com/whole-tale/all-spark-notebook
+    - https://github.com/jupyter/docker-stacks
 
-Tutorial de Spark Pipelines:
-- https://spark.apache.org/docs/latest/ml-pipeline.html
+- Tutorial de Spark Pipelines:
+    - https://spark.apache.org/docs/latest/ml-pipeline.html
 
-Tutorial de como utilizar o KMeans via Mlib:
-- https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.clustering.KMeans.html
+- Tutorial de como utilizar o KMeans via Mlib:
+    - https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.ml.clustering.KMeans.html
 
-Tutorial de como utilizar o XGBoost Spark:
-- https://xgboost.readthedocs.io/en/stable/tutorials/spark_estimator.html
+- Tutorial de como utilizar o XGBoost Spark:
+    - https://xgboost.readthedocs.io/en/stable/tutorials/spark_estimator.html
 
-Base de dados do Census do Estados Unidos de 1994:
-- https://www.kaggle.com/datasets/uciml/adult-census-income/data
-- https://archive.ics.uci.edu/dataset/20/census+income
+- Base de dados do Census do Estados Unidos de 1994:
+    - https://www.kaggle.com/datasets/uciml/adult-census-income/data
+    - https://archive.ics.uci.edu/dataset/20/census+income
 
-Códigos de exemplo de como processar uma quantidade massiva de dados e construir pipelines de treinamento e teste de modelos de Machine Learning:
-- https://github.com/thiagogcosta/mlp-eml4-codigos/tree/main/big_data/serving-batch/spark
+- Códigos de exemplo de como processar uma quantidade massiva de dados e construir pipelines de treinamento e teste de modelos de Machine Learning:
+    - https://github.com/thiagogcosta/mlp-eml4-codigos/tree/main/big_data/serving-batch/spark
 
 ### Estrutura do projeto
 
