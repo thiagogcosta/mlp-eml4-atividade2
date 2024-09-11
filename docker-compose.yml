@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  jupyterlab_spark:
+    restart: on-failure
+    image: jupyterlab_spark
+    build: ./jupyterlab_spark
+    container_name: jupyterlab_spark
+    ports:
+      - "8888:8888"
+
+# # Down the services
+# docker-compose down
+
+# # Rebuild images with cache
+# docker-compose build
+
+# # Rebuild images without cache
+# docker-compose build --no-cache
+
+# # Start or restart the services
+# docker-compose up
