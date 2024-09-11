@@ -2,6 +2,8 @@
 
 Este repositório possui o intuito de conter os códigos da atividade 2 do componente de EML4, no qual possui o objetivo de por em prática o desenvolvimento de códigos em Python para processar grandes volumes de dados com o intuito de simular a divisão e gerenciamento do conjunto de dados, além de fazer as análises de dados necessárias. Sendo que, neste exercício deve-se realizar o pré-processamento de uma base de dados do Census do Estados Unidos (ou seja, https://www.kaggle.com/datasets/uciml/adult-census-income/data), logo após é necessário agrupar os dados e posteriormente usar os grupos formados para induzir um classificador. Não menos importante, o classificador deverá ser testado utilizando validação cruzada.
 
+Desse modo, a seguir é possível observar alguas referências utilizadas para a execução desta atividade:
+
 Tutorial de como utilizar o Jupyter Lab com Spark:
 - https://github.com/whole-tale/all-spark-notebook
 - https://github.com/jupyter/docker-stacks
